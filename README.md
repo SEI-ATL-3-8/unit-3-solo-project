@@ -12,7 +12,7 @@ https://gawdiseattle.gitbook.io/wdi/11-projects/past-projects/project3
   - A sequelize model for each of your database tables
   - At least one association (1-t-m or m-t-m) among your sequelize models
   - Routes that allow CRUD operations on your database tables
-  - Backend support for user authentication flow, including password hashing (using bcrypt) and userId encryption (using jwt)
+  - Backend support for user authentication flow, including password hashing (using bcrypt) and userId encryption (using jwt); see https://github.com/SEI-ATL-3-8/auth-replay, there are examples in the various chapter branches
 - A frontend react app that interacts with your own express backend
   - User authentication flow (creating an account, logging in, logging out) that uses both localStorage and top-level state
   - Page transitions that the user can navigate easily
